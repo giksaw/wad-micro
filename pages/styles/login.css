@@ -1,0 +1,188 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.login-LKf {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.login-LKf .group-13-HVo {
+  margin-bottom: 5.2rem;
+  width: 100%;
+  height: 11rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.login-LKf .group-19-Xuw {
+  margin: 0rem 42rem 9.3rem 42rem;
+  box-sizing: border-box;
+  padding: 6.8rem 2.4rem 5.8rem 2.4rem;
+  width: calc(100% - 84rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #eef2ff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.login-LKf .group-19-Xuw .enter-the-bazar-2Lu {
+  margin-bottom: 2.9rem;
+  max-width: 18.2rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.login-LKf .group-19-Xuw .enter-the-bazar-2Lu .enter-the-bazar-2Lu-sub-0 {
+}
+.login-LKf .group-19-Xuw .enter-the-bazar-2Lu .enter-the-bazar-2Lu-sub-1 {
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  letter-spacing: 1rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.login-LKf .group-19-Xuw .group-14-foB {
+  margin: 0rem 7.4rem 3.9rem 0rem;
+  box-sizing: border-box;
+  padding-left: 7.15rem;
+  width: 47.8rem;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.login-LKf .group-19-Xuw .group-14-foB .gmail-nN1 {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-LKf .group-19-Xuw .group-14-foB .rectangle-10-JbF {
+  margin-left: 0.15rem;
+  width: 40.5rem;
+  height: 6.4rem;
+  box-shadow: inset 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.login-LKf .group-19-Xuw .group-17-CAq {
+  margin: 0rem 7rem 2.2rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 0rem 2.5rem 6.85rem;
+  width: 47.4rem;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.login-LKf .group-19-Xuw .group-17-CAq .password-WSR {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-LKf .group-19-Xuw .group-17-CAq .rectangle-10-F97 {
+  margin: 0rem 0rem 1.2rem 0.05rem;
+  width: calc(100% - 0.05rem);
+  height: 6.4rem;
+  box-shadow: inset 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.login-LKf .group-19-Xuw .group-17-CAq .forgot-password--Ye1 {
+  width: 100%;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-LKf .group-19-Xuw .group-18-sRP {
+  margin: 0 12.3rem;
+  box-sizing: border-box;
+  padding: 0rem 3.218rem 3.1rem 3.2rem;
+  width: calc(100% - 24.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.login-LKf .group-19-Xuw .group-18-sRP .auto-group-msbr-Ped {
+  margin-bottom: 2.2rem;
+  width: 100%;
+  height: 4.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25)), inset -0.4rem -0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #00ff19;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.login-LKf .group-19-Xuw .group-18-sRP .no-account-sign-up-Ddf {
+  margin-left: 0.0177rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-LKf .rectangle-12-VbB {
+  width: 100%;
+  height: 6.9rem;
+  box-shadow: inset 0 0.1rem 0.4rem rgba(0, 0, 0, 0.1000000015));
+  background-color: #ffffff;
+  flex-shrink: 0;
+}

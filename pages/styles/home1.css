@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+}
+
+.Header1 {
+    background-color: aliceblue;
+    display: flex;
+    box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+
+.headMenu {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    width: 15%;
+
+}
+
+.headMenu:hover {
+    color: rgb(0, 133, 133);
+    cursor: pointer;
+
+}
+
+.HeadingTitle {
+    padding: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    width: 40%;
+}
+
+.headingText {
+    font-size: 30px;
+    font-weight: 200;
+    font-family: Inter, 'Source Sans Pro';
+    padding-left: 10px;
+    /* margin-bottom: 32px; */
+
+}
+
+.iconsHeading {
+    width: 2.3rem;
+    height: 2.3rem;
+
+}
+
+.headingMain {
+
+    font-size: 50px;
+    font-weight: 800;
+    
+    width: max-content;
+
+    font-family: Inter, 'Source Sans Pro';
+
+}

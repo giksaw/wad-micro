@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <title>home</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter%3A200%2C400%2C800%2C900" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C400%2C800%2C900" />
+    <link rel="stylesheet" href="./styles/home1.css" />
+</head>
+
+
+<body>
+    <div class="Header1">
+        <div class="headMenu">
+            <img class="iconsHeading" src="./assets/icons8-menu-50-1.png" />
+            <p class="headingText">menu</p>
+
+        </div>
+
+        <div class="headMenu" onclick=hidetop()>
+            <img class="iconsHeading" src="./assets/image-1.png" />
+            <p class="headingText">search</p>
+
+        </div>
+
+        <div class="HeadingTitle">
+            <p class="headingMain">AJCE BAZAAR</p>
+
+        </div>
+
+        <div class="headMenu" onclick=goToUpload()>
+            <img class="iconsHeading" src="./assets/image-2-3Wd.png" />
+            <p class="headingText">upload</p>
+
+        </div>
+
+        <div class="headMenu" onclick=goToProfile()>
+            <img class="iconsHeading" src="./assets/image-3.png" />
+            <p class="headingText">profile</p>
+
+        </div>
+
+    </div>
+
+
+</body>
+
+<script>
+    function goToUpload() {
+        window.location.href = "home.html";
+    }
+
+    function hidetop() {
+        var x = document.getElementById("myDIV");
+       
+    }
+
+    async function get() {
+            var email = document.getElementById("email").value;
+            var password = document.getElementById("password").value;
+            const request = JSON.stringify({
+                email: email,
+                password: password
+            });
+            const apiUrl = "http://localhost:3000/login";
+
+            const response = await fetch(apiUrl, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: request
+            });
+
+            const data = await response.json();
+            if (data.status) {
+                alert("Login Success")
+                console.log(response.headers.get('x-jwtoken'))
+                sessionStorage.setItem("token", response.headers.get('x-jwtoken'));
+                window.location.href = "./main.html"
+            }
+            else {
+                alert(data.msg);
+            }
+        }
+</script>

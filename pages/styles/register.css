@@ -1,0 +1,310 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.register-9Uh {
+  box-sizing: border-box;
+  padding-bottom: 21rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.register-9Uh .group-13-tx5 {
+  margin-bottom: 8.5rem;
+  width: 100%;
+  height: 11rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.register-9Uh .group-30-a4D {
+  margin: 0 37.4rem;
+  width: calc(100% - 74.8rem);
+  height: 61.9rem;
+  position: relative;
+  background-color: #eef3ff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.register-9Uh .group-30-a4D .group-26-YfF {
+  box-sizing: border-box;
+  padding-left: 3.95rem;
+  width: 49.3rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 20.2rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 1rem;
+}
+.register-9Uh .group-30-a4D .group-26-YfF .name-Skd {
+  margin: 0.5rem 0.55rem 0rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-9Uh .group-30-a4D .group-26-YfF .group-21-AAq {
+  width: 19rem;
+  height: 6.1rem;
+  position: relative;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.register-9Uh .group-30-a4D .group-26-YfF .group-21-AAq .rectangle-10-WEh {
+  width: 17.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+  box-shadow: inset 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.register-9Uh .group-30-a4D .group-26-YfF .group-21-AAq .first-name-1SM {
+  width: 8.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 3.35rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  letter-spacing: -0.14rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-9Uh .group-30-a4D .group-26-YfF .group-22-u1w {
+  width: 19rem;
+  height: 6.1rem;
+  position: relative;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.register-9Uh .group-30-a4D .group-26-YfF .group-22-u1w .rectangle-10-rC5 {
+  width: 17.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+  box-shadow: inset 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.register-9Uh .group-30-a4D .group-26-YfF .group-22-u1w .last-name-xF7 {
+  width: 8.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  letter-spacing: -0.14rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-9Uh .group-30-a4D .group-28-ReV {
+  width: 49.4rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 32.7rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 1rem;
+}
+.register-9Uh .group-30-a4D .group-28-ReV .password-xPX {
+  margin-top: 0.5rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-9Uh .group-30-a4D .group-28-ReV .group-24-tHB {
+  width: 38rem;
+  height: 100%;
+  position: relative;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.register-9Uh .group-30-a4D .group-28-ReV .group-24-tHB .rectangle-10-dkZ {
+  width: 36.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+  box-shadow: inset 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.register-9Uh .group-30-a4D .group-28-ReV .group-24-tHB .password-kKP {
+  width: 7.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 3.75rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  letter-spacing: -0.14rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-9Uh .group-30-a4D .group-25-EEZ {
+  box-sizing: border-box;
+  padding-left: 1.55rem;
+  width: 46.8rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 26.6rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 1rem;
+}
+.register-9Uh .group-30-a4D .group-25-EEZ .gmail-Z1w {
+  margin: 0.4rem 0.65rem 0rem 0rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-9Uh .group-30-a4D .group-25-EEZ .group-23-5FB {
+  width: 38rem;
+  height: 100%;
+  position: relative;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.register-9Uh .group-30-a4D .group-25-EEZ .group-23-5FB .rectangle-10-Eds {
+  width: 36.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 0;
+  box-shadow: inset 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.register-9Uh .group-30-a4D .group-25-EEZ .group-23-5FB .gmail-Lgu {
+  width: 4.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 5.45rem;
+  top: 0.7rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  letter-spacing: -0.14rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-9Uh .group-30-a4D .group-29-dR7 {
+  box-sizing: border-box;
+  padding: 0rem 0.9rem 3.1rem 0.9rem;
+  width: 30.6rem;
+  height: 44rem;
+  position: absolute;
+  left: 19.6rem;
+  top: 7.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.5rem;
+}
+.register-9Uh .group-30-a4D .group-29-dR7 .group-27-8cm {
+  margin-bottom: 0.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.register-9Uh .group-30-a4D .group-29-dR7 .group-27-8cm .sign-up-HkZ {
+  margin: 0rem 0.6rem 29.3rem 0rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.register-9Uh .group-30-a4D .group-29-dR7 .group-27-8cm .group-20-c29 {
+  width: 100%;
+  height: 4.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0.4rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25)), inset -0.4rem -0.4rem 0.4rem rgba(0, 0, 0, 0.25));
+  background-color: #00ff19;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.register-9Uh .group-30-a4D .group-29-dR7 .login--xER {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

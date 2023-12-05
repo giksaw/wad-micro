@@ -1,0 +1,114 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 61.9rem;
+}.product-frame-8Nh {
+  box-sizing: border-box;
+  padding-bottom: 5.3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.product-frame-8Nh .auto-group-hbwz-ebw {
+  box-sizing: border-box;
+  padding: 0rem 1.3rem 0rem 1.27rem;
+  width: 100%;
+  height: 45.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.product-frame-8Nh .auto-group-hbwz-ebw .auto-group-o8m1-NH3 {
+  margin-bottom: 7.6rem;
+  width: 55.8298rem;
+  height: 38rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.product-frame-8Nh .auto-group-hbwz-ebw .auto-group-o8m1-NH3 .image-4-uXs {
+  width: 52.3rem;
+  height: 38rem;
+  position: absolute;
+  left: 3.5298rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-frame-8Nh .auto-group-hbwz-ebw .auto-group-o8m1-NH3 .image-6-dim {
+  width: 3.5596rem;
+  height: 3.5596rem;
+  position: absolute;
+  left: 0;
+  top: 13.8702rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.product-frame-8Nh .auto-group-hbwz-ebw .image-5-kYV {
+  margin-top: 14.5rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.product-frame-8Nh .auto-group-fteb-VFB {
+  margin: 0rem 3.15rem 0rem 3.1rem;
+  width: calc(100% - 6.25rem);
+  height: 10.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.product-frame-8Nh .auto-group-fteb-VFB .auto-group-rcx5-p2Z {
+  margin-right: 11.65rem;
+  width: 28.9rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.product-frame-8Nh .auto-group-fteb-VFB .auto-group-rcx5-p2Z .sport-shoes-jvD {
+  margin-bottom: 2.1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.product-frame-8Nh .auto-group-fteb-VFB .auto-group-rcx5-p2Z .adsaudhashdlkasdhasdasdagshdgajdhaskdhasd-TbK {
+  max-width: 28.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.product-frame-8Nh .auto-group-fteb-VFB .item-2500-n7o {
+  margin-top: 0.7rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
